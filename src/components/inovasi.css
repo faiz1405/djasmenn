@@ -1,0 +1,13 @@
+.slick-dots {
+  position: absolute;
+  top: 191px;
+  left: 68px;
+  display: block;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-align: center;
+  display: flex !important;
+  flex-direction: column !important;
+}
